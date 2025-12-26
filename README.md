@@ -145,7 +145,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📞 Contacto
 
 - **Autores:** AndyCG03 y R0ger0l1va
-- **GitHub:** [@AndyCG03](https://github.com/AndyCG03) y [@R0ger0l1va]https://github.com/R0ger0l1va
+- **GitHub:** [@AndyCG03](https://github.com/AndyCG03) y [@R0ger0l1va](https://github.com/R0ger0l1va)
 - **Issues:** [Reportar problema](https://github.com/AndyCG03/biocu/issues)
 
 ---
