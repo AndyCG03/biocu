@@ -130,6 +130,15 @@ npm run test:cov
 - Verificar credenciales en `.env`
 - Ejecutar migraciones si es necesario
 
+## 📸 Algunas pantallas
+
+<div align="center">
+  <img src="./images/login.jpg" width="20%" style="margin: 40px;" title="Pantalla de Login" alt="Login">
+  <img src="./images/reportar%20problema.jpg" width="20%" style="margin: 40px;" title="Reportar Problema Ambiental" alt="Reportar">
+  <img src="./images/contenidos.jpg" width="20%" style="margin: 40px;" title="Contenidos Educativos" alt="Contenidos">
+  <img src="./images/tutorial.jpg" width="20%" style="margin: 40px;" title="Tutorial de Uso" alt="Tutorial">
+</div>
+
 ## 🤝 Contribuir
 
 1. Fork el repositorio
